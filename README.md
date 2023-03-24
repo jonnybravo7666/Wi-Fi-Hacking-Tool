@@ -102,7 +102,7 @@ Note that the security type is represented as a string, which may be one of the 
 
 
 
-# High Level 
+# High code 
 
 Python script that collect the information about Wi-Fi network and device connected to it
 
