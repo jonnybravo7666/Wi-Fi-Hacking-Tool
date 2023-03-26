@@ -1,4 +1,4 @@
-# Wi-Fi-Hacking-Tool
+# Wi-Fi-Information-Gathering-Tool
 
 Hey there, In this blog we are going to see how to collect Wi-Fi information without using any tools or by installing any tool, we will do it just by simply running python code. The code only work when your divice is connected to Wi-Fi not with Ethernet cable (LAN)  
 
